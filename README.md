@@ -1,0 +1,2 @@
+# MasWay-VPN
+Config
